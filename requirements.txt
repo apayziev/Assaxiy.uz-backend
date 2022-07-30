@@ -1,0 +1,9 @@
+pep8
+pylint
+django
+django-debug-toolbar
+djangorestframework
+django-ckeditor
+psycopg2
+unidecode
+pillow
